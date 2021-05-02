@@ -21,15 +21,29 @@
   
 
   <item>
-    <title>Scribe Workshop and Newsletter</title>
+    <title>Scribe Badge Workshop and Newsletter</title>
     <link>https://pzzd.github.io/girl-scouts-volunteer/scribe/newsletter-20201220.pdf</link>
     <guid>https://pzzd.github.io/girl-scouts-volunteer/scribe/newsletter-20201220.pdf</guid>
-    <description>Juniors in my troop earned the Scribe badge and produced a newsletter called Scribe's Scribbles.</description>
+    <description>I led Juniors in my troop through 5 workshops to earn the Scribe badge. Their writing activities were used for a newsletter called Scribe's Scribbles.</description>
     <enclosure url="https://pzzd.github.io/girl-scouts-volunteer/scribe/newsletter-20201220.pdf" length="7100000" type="application/pdf" />
     <content:encoded><![CDATA[
       <p>See a <a href='https://pzzd.github.io/girl-scouts-volunteer/scribe/newsletter-20201220.pdf'>PDF of the newsletter</a>.</p>
     ]]></content:encoded>
     <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+  </item>
+  
+  
+
+  <item>
+    <title>Democracy Badge Workshop and Newsletter</title>
+    <link>https://pzzd.github.io/girl-scouts-volunteer/democracy/democracy-newsletter-2021.pdf</link>
+    <guid>https://pzzd.github.io/girl-scouts-volunteer/democracy/democracy-newsletter-2021.pdf</guid>
+    <description>Daisies, Brownies, and Juniors spent two virtual workshops with me to earn the Democracy badge. Their written activities were used to create a newsletter called Daughters of Democracy.</description>
+    <enclosure url="https://pzzd.github.io/girl-scouts-volunteer/scribe/newsletter-20201220.pdf" length="7100000" type="application/pdf" />
+    <content:encoded><![CDATA[
+      <p>See a <a href='https://pzzd.github.io/girl-scouts-volunteer/democracy/democracy-newsletter-2021.pdf'>PDF of the newsletter</a>.</p>
+    ]]></content:encoded>
+    <pubDate>Mon, 3 May 2021 00:00:00 +0000</pubDate>
   </item>
   
 </channel>
