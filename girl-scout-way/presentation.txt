@@ -1,3 +1,14 @@
+Pres set-up:
+
+In Chrome, start Google Meet.
+
+In a different Chrome window, open https://www.youtube.com/watch?v=H2UncUeCC2o.
+
+In a new Chrom tab, open https://play.kahoot.it/v2/?quizId=13f71841-d89f-4a43-a909-e1dd5d05beca.
+
+In Keynote, play presentation in window.
+
+
 As a Girl Scout, you are member of a very old organiazation! Girls have been joining the Girl Scouts since 1912--that's 109 years ago.
 
 https://www.wsbtv.com/community/evolution-of-girl-scout-uniforms-over-the-decades/488529968/
