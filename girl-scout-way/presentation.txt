@@ -2,7 +2,7 @@ Pres set-up:
 
 In Chrome, start Google Meet.
 
-In a different Chrome window, open https://www.youtube.com/watch?v=H2UncUeCC2o.
+In a different Chrome window, open https://www.youtube.com/watch?v=Nb19QQ3oBNo.
 
 In a new Chrom tab, open https://play.kahoot.it/v2/?quizId=13f71841-d89f-4a43-a909-e1dd5d05beca.
 
