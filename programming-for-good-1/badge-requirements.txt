@@ -1,0 +1,56 @@
+Daisy (Grades K-1)
+STEM
+Coding for Good 1: Coding Basics
+
+Find out how computers can be used to help others.
+
+Create algorithms for a computer that follow a sequence
+Learn about women in computer science
+Explore sorting algorithms
+
+When you've earned this badge, you'll know how computer scientists code programs for computers to solve problems.
+--
+
+Brownie (Grades 2-3)
+STEM
+Coding for Good 1: Coding Basics
+
+Find out how computer scientists write programs for computers to solve problems.
+
+Create algorithms for a computer that follow a sequence
+Use loops to improve your algorithm
+Use events to make things happen
+Learn about women in computer science
+Create your own set of commands that use events
+
+When you've earned this badge, you'll know how programmers write programs that make computers work and how people can use computers to help others.
+--
+
+Junior (Grades 4-5)
+STEM
+Coding for Good 1: Coding Basics
+
+Find out how programmers write computer programs for computers to solve problems.
+
+Create algorithms for a computer that follow a sequence
+Use loops to improve your algorithm
+Keep your code interesting with conditionals
+Create your own set of commands that use conditionals
+Learn about women in computer science
+
+When you've earned this badge, you'll know how programmers write computer programs and how people can use computers to help others.
+--
+
+Cadette (Grades 6-8)
+STEM
+Coding for Good 1: Coding Basics
+
+Find out how to write a computer program and create a meme with a positive message.
+
+Learn about functions and arguments
+Explore how memes are created
+Write pseudocode for a meme
+Write shareable code
+Share your meme
+
+When you've earned this badge, you'll know the basics of computer coding and how to create a meme that can have an impact on other people, your community, and the world.
