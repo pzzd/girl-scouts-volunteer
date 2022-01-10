@@ -50,7 +50,7 @@ In all these examples I made instructions and gave them to my computers to perfo
 Let's do one more example. This time you are all the coders, and I would like you to program my sandwich-making robot to make a peanut butter and jelly sandwich. You tell me the instructions. I will write them down in
 
 
-Let's do some math.
+
 
 first computer: humans!
 
